@@ -14,4 +14,5 @@ end
 
 ![GPS 1.1](screenshot.png)
 
-kind of a bigger biggie
+The biggest:
+# Big-E.
